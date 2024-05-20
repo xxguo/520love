@@ -37,7 +37,7 @@ $(window).resize(function() {
 	};
 })(jQuery);
 
-// 目标时间：2023-04-13 09:32
+// 目标时间：-04-13 09:32
 const targetTime = new Date('{{时间}}');
 
 function timeElapse(date){
